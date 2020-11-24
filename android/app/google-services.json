@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "247421170256",
+    "firebase_url": "https://esports-a116d.firebaseio.com",
+    "project_id": "esports-a116d",
+    "storage_bucket": "esports-a116d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247421170256:android:ffca4e834591be22",
+        "android_client_info": {
+          "package_name": "com.nismotek.esports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247421170256-qir0rgm10386ir2sk281guf7n8dtcpg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3J0vSndwFieZWRFClH9SgAdroKgTr-So"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247421170256-qir0rgm10386ir2sk281guf7n8dtcpg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
